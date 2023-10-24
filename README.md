@@ -10,3 +10,11 @@ Processes executed/done involved :
 6. Model Evaluation
 
 The dataset used in this project is provided by prolifics ,hyderabad
+This project is mainly focused on comparison of different accuracy scores and precision of the regression line on the following graphs by using different ML models such as :
+
+* Desicion Tree
+* Random Forest
+* SVM (Support Vector Machine)
+* Linear Regression
+* XGboost (Extreme Gradient Boosting)
+* CATboost (Categorical Boosting)
