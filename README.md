@@ -9,7 +9,7 @@ Processes executed/done involved :
 5. Model Training
 6. Model Evaluation
 
-The dataset used in this project is provided by prolifics ,hyderabad
+The dataset used in this project is provided by prolifics ,hyderabad .
 This project is mainly focused on comparison of different accuracy scores and precision of the regression line on the following graphs by using different ML models such as :
 
 * Desicion Tree
